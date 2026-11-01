@@ -6,8 +6,8 @@
 
 I am an M.Tech student in **Climate Change at IIT Hyderabad**, with a B.Tech background in **Geo-informatics from Andhra University**. I am working at the intersection of  geospatial technologies, satellite data, and machine learning to understand and solve real-world challenges in climate, environment, and infrastructure.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/anthonykushal)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anthonykushal)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:anthonykushal01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
