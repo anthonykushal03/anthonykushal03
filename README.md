@@ -8,7 +8,7 @@ I am an M.Tech student in **Climate Change at IIT Hyderabad**, with a B.Tech bac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anthonykushal)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:anthonykushal01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/anthonykushal03)
 
 </div>
 
