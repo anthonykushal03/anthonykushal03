@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm P. Bala Anthony Kushal 👋
+# Hi, I'm P. Bala Anthony Kushal
 
 ### Geospatial AI | Climate Analytics | ML,DL & CV | Sustainability
 
@@ -16,8 +16,8 @@ I am an M.Tech student in **Climate Change at IIT Hyderabad**, with a B.Tech bac
 
 ## About Me
 
-- 🎓 **M.Tech in Climate Change** — Indian Institute of Technology Hyderabad (2025–2027)
-- 🎓 **B.Tech in Geo-informatics** — Andhra University
+- 🎓 **M.Tech in Climate Change** — Indian Institute of Technology Hyderabad
+- 🎓 **B.Tech in Geo-informatics** — Andhra University 
 - 🌍 Interested in **GeoAI, climate science, environmental monitoring, and sustainability**.
 - 🛰️ Work with satellite imagery, geospatial datasets, climate reanalysis data, and GIS workflows.
 - 🤖 Exploring machine learning, deep learning, and computer vision for practical geospatial applications.
